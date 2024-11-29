@@ -4,7 +4,7 @@ third = input('И ещё одно: ')
 
 if first == second and first == third :
     print (3)
-elif first == second or first == third :
+elif first == second or second == third :
     print(2)
 else :
     print(0)
